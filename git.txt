@@ -1,0 +1,31 @@
+ git init
+
+ git add .
+
+ git commit -m "Pag-inicial TCC"
+
+git config --global user.email "your@example.com"
+git config --global user.name "Your Name"
+git branch -M main
+
+git remove add origin git@github.com:
+
+git push -u origin main
+
+
+
+github 
+config
+SSH and GPG keys
+
+terminal
+ ssh-keygen -t codigo gerado -c "@gmil".
+ 
+ entrar no arquivo
+ e copiar o codigo
+ colar la no git
+
+ git push -u origin main
+ 
+
+
